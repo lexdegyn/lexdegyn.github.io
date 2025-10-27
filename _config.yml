@@ -1,6 +1,6 @@
 tittle: Lex!
-#logo:
+logo: assets/lex-headshot-graduation.jpeg
 #description:
 show_downloads: false
-theme: minimal
+theme: jekyll-theme-minimal
 
