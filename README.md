@@ -2,7 +2,7 @@
 
 ## Education	        		
 - B.S., Mechanical Engineering | Universidade do Porto (_2024_)
-- Dual High School Diploma | Griggs (Andrews University) (_2021-2023_)
+- Dual High School Diploma | Griggs & Andrews University (_2021-2023_)
 
 
 ## Volunteering
@@ -22,7 +22,7 @@ gender equity.
 - Built a Python-based bot for Discord capable of streaming music, handling commands, and managing playlists.
 - Version-controlled via GitHub and developed in Visual Studio Code with integration to Discord’s API.
 
-### Personal Website | https://www.lexdegyn.com (_2023_)
+### [Personal Website](https://www.lexdegyn.com) (_2023_)
 - Deployed using Google Sites, customized with HTML; tracked performance via Google Analytics and hosted using AWS Console.
 
 ## Skills & Interests
